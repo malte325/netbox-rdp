@@ -12,7 +12,7 @@ Willkommen zum **Netbox-RDP Plugin**! Dieses Plugin ermöglicht es dir, direkt a
 
 1. **Plugin herunterladen**:
    ```bash
-   git clone https://github.com/dein-benutzername/netbox-rdp.git
+   git clone https://github.com/malte325/netbox-rdp.git
    ```
 
 2. **Plugin registrieren**:
@@ -47,7 +47,7 @@ Falls du zur Entwicklung beitragen möchtest, folge diesen Schritten:
 
 1. **Repository klonen**:
    ```bash
-   git clone https://github.com/dein-benutzername/netbox-rdp.git
+   git clone https://github.com/malte325/netbox-rdp.git
    ```
 
 2. **Virtuelle Umgebung erstellen**:
@@ -72,7 +72,7 @@ Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
 
 ## Kontakt 📬
 
-Bei Fragen oder Problemen, erstelle bitte ein Issue im [GitHub Repository](https://github.com/dein-benutzername/netbox-rdp/issues) oder kontaktiere mich direkt unter [deine.email@example.com](mailto:deine.email@example.com).
+Bei Fragen oder Problemen, erstelle bitte ein Issue im [GitHub Repository](https://github.com/malte325/netbox-rdp/issues).
 
 ---
 
